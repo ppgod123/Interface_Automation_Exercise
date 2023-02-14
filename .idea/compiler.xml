@@ -9,5 +9,6 @@
         <module name="Interface_Automation_Exercise" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
